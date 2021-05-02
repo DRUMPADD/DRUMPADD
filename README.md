@@ -10,4 +10,4 @@
 
 <h2>Contacts</h2>
 
-<a href="https://www.linkedin.com/in/erick-francisco-pati%C3%B1o-olvera-901205139/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="30"></a> <a href="https://www.instagram.com/efolvera18/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/erick-francisco-pati%C3%B1o-olvera-901205139/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="30"></a> <a href="https://www.instagram.com/efolvera18/" target="_blank"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="Instagram" width="30"></a>

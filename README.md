@@ -10,4 +10,4 @@
 
 <h2>Contacts</h2>
 
-<a href="https://www.linkedin.com/in/erick-francisco-pati%C3%B1o-olvera-901205139/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="30"></a> <a href="https://github.com/DRUMPADD" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="30"></a>
+<a href="https://www.linkedin.com/in/erick-francisco-pati%C3%B1o-olvera-901205139/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="30"></a> <a href="https://www.instagram.com/efolvera18/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram" width="30"></a>

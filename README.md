@@ -1,6 +1,6 @@
-<h1>Hi there, I'm Erick 🍕🎮</h1>
+<h1>Hi!! I'm Erick 🍕🎮</h1>
 <h2>I studied Computer Systems Engineering.</h2>
-<h2>I love to learn programming. 💻</h2> 
+<h2>I love to learn programming 💻</h2> 
 
 <a href="https://app.daily.dev/DRUMPADD"><img src="https://api.daily.dev/devcards/3ce1af779f9b48df8d8179590c8dde28.png?r=a1h" width="400" alt="Erick Francisco Patiño Olvera's Dev Card"/></a>
 

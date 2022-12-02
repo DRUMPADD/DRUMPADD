@@ -13,4 +13,4 @@
 
 <h2>Contacts</h2>
 
-<a href="https://www.linkedin.com/in/erick-francisco-pati%C3%B1o-olvera-901205139/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="80"></a> 
+<a href="https://www.linkedin.com/in/erick-francisco-pati%C3%B1o-olvera-901205139/" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" width="50"></a> 

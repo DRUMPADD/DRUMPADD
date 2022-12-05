@@ -4,7 +4,7 @@
 # Hello, I'm Erick🍕🎮
 
 ## I studied Computer Systems Engineering.
-<p>I am currently learning React 💻👾 <img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e470pnftxa4x4ju4768wtgm0wh2doi39g0k8i52eni1&rid=giphy.gif&ct=g" width="50" /></p>
+<h3>I am currently learning React 💻👾 <img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e470pnftxa4x4ju4768wtgm0wh2doi39g0k8i52eni1&rid=giphy.gif&ct=g" width="50" /></h3>
 
 <p align="center">
   <a href="https://app.daily.dev/DRUMPADD" style="display: block;"><img src="https://api.daily.dev/devcards/3ce1af779f9b48df8d8179590c8dde28.png?r=a1h" width="220" alt="Erick Francisco Patiño Olvera's Dev Card"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

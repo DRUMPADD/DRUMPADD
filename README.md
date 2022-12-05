@@ -3,7 +3,7 @@
 ```
 # Hello, I'm Erick🍕🎮
 
-`I studied Computer Systems Engineering.`
+`I studied Computer Systems Engineering.`<br />
 `I am currently learning React 💻👾`
 
 <p align="center">

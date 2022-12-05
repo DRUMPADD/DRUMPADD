@@ -6,7 +6,7 @@
   <div>
       <h2>I studied Computer Systems Engineering.</h2>
       <h2>I am currently learning React 💻👾 </h2>
-  </div>&nbsp;&nbsp;&nbsp;
+  </div>&nbsp;&nbsp;
   <a href="https://app.daily.dev/DRUMPADD"><img src="https://api.daily.dev/devcards/3ce1af779f9b48df8d8179590c8dde28.png?r=a1h" width="300" alt="Erick Francisco Patiño Olvera's Dev Card"/></a>
 </div>
 

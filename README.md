@@ -10,11 +10,9 @@
 <img src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4" alt="JSON" width="40">
 </div>
 
-<p align="center">
-  ```python
-    print("Hello world!")
-  ```
-</p>
+```python
+  print("Hello world!")
+```
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DRUMPADD&show_icons=true) -->
 

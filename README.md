@@ -1,8 +1,7 @@
 ```python
   print("Hello world!")
 ```
-# Hello, I'm # Erick
-<h1>Hi!! I'm # Erick 🍕🎮</h1>
+# Hello, I'm Erick 🍕🎮
 <div align="center">
   <div>
       <h2>I studied Computer Systems Engineering.</h2>

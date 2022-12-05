@@ -7,7 +7,10 @@
     <p>I studied Computer Systems Engineering.</p>
     <p>I am currently learning React 💻👾 </p>
   </div>
-  <a href="https://app.daily.dev/DRUMPADD"><img src="https://api.daily.dev/devcards/3ce1af779f9b48df8d8179590c8dde28.png?r=a1h" width="150" alt="Erick Francisco Patiño Olvera's Dev Card"/></a>
+  <p>
+    <a href="https://app.daily.dev/DRUMPADD"><img src="https://api.daily.dev/devcards/3ce1af779f9b48df8d8179590c8dde28.png?r=a1h" width="150" alt="Erick Francisco Patiño Olvera's Dev Card"/></a>
+  </p>
+ 
 </div>
 
 <p align="center">

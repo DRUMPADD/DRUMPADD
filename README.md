@@ -7,7 +7,7 @@
 
 <p align="center">
  <img src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47nzi3n2cijch5cyaybmb2k13zlwynpc3tyqlha3qu&rid=giphy.gif&ct=g"alt="HostGator" />&nbsp;&nbsp;
-  <a href="https://app.daily.dev/DRUMPADD"><img src="https://api.daily.dev/devcards/3ce1af779f9b48df8d8179590c8dde28.png?r=a1h" width="430" alt="Erick Francisco Patiño Olvera's Dev Card"/></a>
+  <a href="https://app.daily.dev/DRUMPADD"><img src="https://api.daily.dev/devcards/3ce1af779f9b48df8d8179590c8dde28.png?r=a1h" width="400" alt="Erick Francisco Patiño Olvera's Dev Card"/></a>
 </p>
 <h2>Programming languages and stuff:</h2>
 <div align="center">

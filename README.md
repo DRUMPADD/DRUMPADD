@@ -12,6 +12,8 @@
  <img src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47nzi3n2cijch5cyaybmb2k13zlwynpc3tyqlha3qu&rid=giphy.gif&ct=g" width="300" alt="HostGator" />
 </p>
 
+<img src="https://raw.githubusercontent.com/DRUMPADD/DRUMPADD/main/languages/django-icon.svg" />
+
 <h2>Programming languages and stuff:</h2>
 <br />
 <div align="center">

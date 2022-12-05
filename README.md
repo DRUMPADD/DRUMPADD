@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <a href="https://app.daily.dev/DRUMPADD" style="display: block;"><img src="https://api.daily.dev/devcards/3ce1af779f9b48df8d8179590c8dde28.png?r=a1h" width="150" alt="Erick Francisco Patiño Olvera's Dev Card"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://app.daily.dev/DRUMPADD" style="display: block;"><img src="https://api.daily.dev/devcards/3ce1af779f9b48df8d8179590c8dde28.png?r=a1h" width="200" alt="Erick Francisco Patiño Olvera's Dev Card"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47nzi3n2cijch5cyaybmb2k13zlwynpc3tyqlha3qu&rid=giphy.gif&ct=g" width="300" alt="HostGator" />
 </p>
 

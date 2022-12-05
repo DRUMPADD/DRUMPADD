@@ -3,8 +3,8 @@
 ```
 # Hello, I'm Erick🍕🎮
 
-`I studied Computer Systems Engineering.`<br />
-`I am currently learning React 💻👾`
+## I studied Computer Systems Engineering.
+## I am currently learning React 💻👾
 
 <p align="center">
   <a href="https://app.daily.dev/DRUMPADD" style="display: block;"><img src="https://api.daily.dev/devcards/3ce1af779f9b48df8d8179590c8dde28.png?r=a1h" width="220" alt="Erick Francisco Patiño Olvera's Dev Card"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

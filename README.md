@@ -43,4 +43,7 @@
 <img src="https://raw.githubusercontent.com/DRUMPADD/DRUMPADD/main/social/linkedin-icon.svg" alt="LinkedIn account" width="50">&nbsp;&nbsp;
 </a> 
 
- [![DRUMPADD's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DRUMPADD)](https://github.com/DRUMPADD/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DRUMPADD&hide_progress=true)](https://github.com/DRUMPADD/github-readme-stats)
+
+ 
+[![DRUMPADD's GitHub stats](https://github-readme-stats.vercel.app/api?username=DRUMPADD&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/DRUMPADD/github-readme-stats#gh-dark-mode-only)

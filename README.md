@@ -42,3 +42,5 @@
 <a href="https://www.linkedin.com/in/erick-francisco-pati%C3%B1o-olvera-901205139/" target="_blank">
 <img src="https://raw.githubusercontent.com/DRUMPADD/DRUMPADD/main/social/linkedin-icon.svg" alt="LinkedIn account" width="50">&nbsp;&nbsp;
 </a> 
+
+ [![DRUMPADD's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DRUMPADD)](https://github.com/DRUMPADD/github-readme-stats#gh-dark-mode-only)

@@ -1,16 +1,10 @@
-```php
-  echo 'Hello everybody';
-```
-# Hello, I'm Erick🍕🎮
-
+# Hi there! 🍕🎮
 ## I studied Computer Systems Engineering.
 <h3>I am currently learning React 💻👾 <img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e470pnftxa4x4ju4768wtgm0wh2doi39g0k8i52eni1&rid=giphy.gif&ct=g" width="50" /></h3>
-
 <p align="center">
   <a href="https://app.daily.dev/DRUMPADD" style="display: block;"><img src="https://api.daily.dev/devcards/3ce1af779f9b48df8d8179590c8dde28.png?r=a1h" width="220" alt="Erick Francisco Patiño Olvera's Dev Card"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47nzi3n2cijch5cyaybmb2k13zlwynpc3tyqlha3qu&rid=giphy.gif&ct=g" width="300" alt="HostGator" />
 </p>
-
 <br />
 <div align="center">
   <img src="https://raw.githubusercontent.com/DRUMPADD/DRUMPADD/main/languages/php.svg" alt="PHP" width="50">&nbsp;&nbsp;
@@ -34,16 +28,9 @@
   <img src="https://raw.githubusercontent.com/DRUMPADD/DRUMPADD/main/frontend/tailwindcss-icon.svg" alt="Tailwind" width="50">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/DRUMPADD/DRUMPADD/main/services/digital-ocean.svg" alt="DigitalOcean" width="50">&nbsp;&nbsp;
 </div>
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DRUMPADD&show_icons=true) -->
-
 <h2>Contacts</h2>
-
 <a href="https://www.linkedin.com/in/erick-francisco-pati%C3%B1o-olvera-901205139/" target="_blank">
 <img src="https://raw.githubusercontent.com/DRUMPADD/DRUMPADD/main/social/linkedin-icon.svg" alt="LinkedIn account" width="50">&nbsp;&nbsp;
 </a> 
-
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DRUMPADD&hide_progress=true)](https://github.com/DRUMPADD/github-readme-stats)
-
- 
 [![DRUMPADD's GitHub stats](https://github-readme-stats.vercel.app/api?username=DRUMPADD&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/DRUMPADD/github-readme-stats#gh-dark-mode-only)

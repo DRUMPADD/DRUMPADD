@@ -9,7 +9,7 @@
 <br /><br />
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=php,js,jquery,nodejs,express,react,py,flask,django,html,css,bootstrap,tailwind,mysql,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,js,jquery,nodejs,express,react,py,django,html,css,bootstrap,tailwind,mysql,sqlite,vscode)](https://skillicons.dev)
   
   <img src="https://raw.githubusercontent.com/DRUMPADD/DRUMPADD/main/services/npm-icon.svg" alt="NPM" width="50">&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/666de02829613e0244e9441b114edb85781e972c/topics/pip/pip.png" alt="PIP" width="50">&nbsp;&nbsp;

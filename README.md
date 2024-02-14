@@ -21,6 +21,15 @@
 <a href="https://www.linkedin.com/in/erick-francisco-pati%C3%B1o-olvera-901205139/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
  </a>
+ <a href="https://github.com/DRUMPADD" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+ </a>
+ <a href="https://mail.google.com/mail/u/0/?to=erickfco1999@gmail.com&fs=1&tf=cm" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+ </a>
+ <a href="https://github.com/DRUMPADD" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+ </a>
 
 <hr>
 

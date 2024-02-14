@@ -27,10 +27,6 @@
  <a href="https://mail.google.com/mail/u/0/?to=erickfco1999@gmail.com&fs=1&tf=cm" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
  </a>
- <a href="https://github.com/DRUMPADD" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
- </a>
-
 <hr>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DRUMPADD&hide_progress=true)](https://github.com/DRUMPADD/github-readme-stats)

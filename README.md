@@ -16,27 +16,22 @@
 </p>
 <p><h3>Backend Frameworks:</h3>
 
-  <span>[![My Skills](https://skillicons.dev/icons?i=laravel,django,express)](https://skillicons.dev)</span> 
+  <span>[![My Skills](https://skillicons.dev/icons?i=laravel,django,flask,express)](https://skillicons.dev)</span> 
 </p>
 <p><h3>Databases:</h3>
 
-  <span>[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)</span>
+  <span>[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://skillicons.dev)</span>
   <img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" alt="SQL Server" width="50">
 </p>
 <p><h3>Frontend:</h3>
 
-  <span>[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind)](https://skillicons.dev)</span> 
-</p>
-<p><h3>Frontend libraries:</h3>
-
-  <span>[![My Skills](https://skillicons.dev/icons?i=react,)](https://skillicons.dev)</span> 
+  <span>[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react)](https://skillicons.dev)</span> 
 </p>
 <p><h3>Tools:</h3>
 
-  <span>[![My Skills](https://skillicons.dev/icons?i=jquery,nodejs,vscode,git)](https://skillicons.dev)</span> 
-  <img src="https://raw.githubusercontent.com/DRUMPADD/DRUMPADD/main/services/npm-icon.svg" alt="NPM" width="50">;
-  <img src="https://raw.githubusercontent.com/github/explore/666de02829613e0244e9441b114edb85781e972c/topics/pip/pip.png" alt="PIP" width="50">;
-  <img src="https://raw.githubusercontent.com/DRUMPADD/DRUMPADD/main/frontend/json.svg" alt="JSON" width="50">;
+  <span>[![My Skills](https://skillicons.dev/icons?i=jquery,nodejs,vscode,git,npm,vite)](https://skillicons.dev)</span>
+  <img src="https://raw.githubusercontent.com/github/explore/666de02829613e0244e9441b114edb85781e972c/topics/pip/pip.png" alt="PIP" width="50">
+  <img src="https://raw.githubusercontent.com/DRUMPADD/DRUMPADD/main/frontend/json.svg" alt="JSON" width="50">
 </p>
 <p><h3>Cloud:</h3>
 

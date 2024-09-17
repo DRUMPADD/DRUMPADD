@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="25" height="25" />
 <li>Computer systems engineer.</li>
 <li>Drummer in my free time <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Drum.png" alt="Drum" width="25" height="25" /></li>
-<li>I am currently learning Laravel, FastAPI and Typescript 💻👾 <img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e470pnftxa4x4ju4768wtgm0wh2doi39g0k8i52eni1&rid=giphy.gif&ct=g" width="50" /></li>
+<li>I am currently learning React and Typescript 💻👾 <img src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e470pnftxa4x4ju4768wtgm0wh2doi39g0k8i52eni1&rid=giphy.gif&ct=g" width="50" /></li>
 <p align="center">
   <a href="https://app.daily.dev/drumpadd"><img src="https://api.daily.dev/devcards/v2/KN7_0hEEE.png?r=q7d&type=wide" width="650" alt="Erick Francisco Patiño Olvera's Dev Card"/></a>
  <!--<img src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=ecf05e47nzi3n2cijch5cyaybmb2k13zlwynpc3tyqlha3qu&rid=giphy.gif&ct=g" width="300" alt="HostGator" /> -->
